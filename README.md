@@ -40,5 +40,5 @@ For any inquiries or feedback, please feel free to reach out to me.
 
 Contact Information:
 
-Email: naddagatla@gmail.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nitesh-addagatla/)https://www.linkedin.com/in/nitesh-addagatla/
+Email: naddagatla@gmail.com<br>
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nitesh-addagatla/)
